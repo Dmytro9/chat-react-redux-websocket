@@ -1,9 +1,9 @@
-#chat-react-redux-websocket
 Chat with react, redux and websocket
 
 - clone project
 - open two folders: client and server
-- open console in these two directories
+- open two consoles in these two directories
 - install required modules by 'npm i'
-- and start script: 'npm chat' - in client directory and 'node app' in server's
+- start script: 'npm chat' - in client directory and 'node app' in server's
+- since you are on a local server, open several tabs in browser to simulate multiple users 
 - enjoy :)

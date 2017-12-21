@@ -1,4 +1,4 @@
-Chat with react, redux and websocket
+<b>Chat with react, redux and websocket</b>
 
 - clone project
 - open two folders: client and server

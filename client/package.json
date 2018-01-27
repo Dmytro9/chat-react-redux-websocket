@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "chat": "webpack-dev-server --colors --progress"
+    "chat": "webpack-dev-server --colors --progress",
+    "dist": "webpack -p"
   },
   "author": "Dmytro Poliuliuk <dpoliuliuk@gmail.com>",
   "license": "ISC",
